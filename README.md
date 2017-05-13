@@ -1,3 +1,3 @@
 Moved to 
 
-bool.herokuapp.com
+https://bodata-booli.appspot.com/?redirect
