@@ -1,3 +1,3 @@
 Moved to 
 
-https://boodata.se/?redirect
+http://boodata.se/?redirect
