@@ -1,3 +1,3 @@
 Moved to 
 
-bool.herokuapp.com
+boodata.se/?redirect
