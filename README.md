@@ -1,3 +1,3 @@
 Moved to 
 
-https://bodata-booli.appspot.com/?redirect
+https://boodata.se/?redirect
